@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Emma. I'm working on building the world's largest [farm equipment and heavy machinery repository](https://www.allmachines.com/) and excited to share it with the world. 
+
+You can reach me at emma@allmachines.com. 
 <!--
 **emmawalsh103/emmawalsh103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
