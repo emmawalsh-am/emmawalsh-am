@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Emma. I'm working on building the world's largest [farm equipment and heavy machinery repository](https://www.allmachines.com/) and excited to share it with the world. 
+I'm Emma. I'm working on building the [world's largest farm equipment and heavy machinery repository](https://www.allmachines.com/) and excited to share it with the world. 
 
 AllMachines makes choosing heavy machinery easier with its comprehensive and reliable resource hub. Our platform covers all [tractor](https://www.allmachines.com/tractors) and [forklift models](https://www.allmachines.com/forklifts) and brands in the US, providing a wide range of details including dealers, specs, and features. With downloadable manuals, expert user reviews, and detailed model insights, AllMachines gives you the information you need to make smart decisions and find the right equipment for your needs.
 <!--
